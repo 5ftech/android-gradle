@@ -1,4 +1,4 @@
-FROM daocloud.io/brave8/maven-jdk7:lastest
+FROM daocloud.io/brave8/maven-jdk7:latest
 
 RUN mkdir -p /usr/share/android
 RUN mkdir -p /usr/share/src
